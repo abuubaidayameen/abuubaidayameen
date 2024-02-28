@@ -24,9 +24,6 @@ Navigate a growing snake through a maze of fruit, where each consumption increas
 But beware: touching the boundaries or the snake itself ends the game. Test your reflexes as the challenge escalates with every 
 fruit eaten. Enjoy seamless interaction through a colorful Graphical User Interface (GUI) for an immersive gaming experience.
   
-## Decimal To Hexdecimal: 
-   The conversion of decimal numbers to hexadecimal numbers is a very easy task. It can be done with the help of a conversion table. If one memorizes this table, he/she can easily convert a decimal number to a hexadecimal number. For the decimal numbers from 1 to 15, there is an equivalent hexadecimal number. But how to convert the decimal number if it is more than 15. Then we need to follow a different procedure.
-If any given number is more than 15, then we have to divide the decimal number by 16 and consider the remainder to get the equivalent hexadecimal number. The complete procedure we have explained here step by step. But before learning the steps let us see the table, where for each value of the decimal number from 0 to 15, there is an equivalent hexadecimal number given.
 
  # Get in Touch:
    I'm always open to collaboration and learning opportunities. Feel free to reach out to me via email or connect with me on LinkedIn!
